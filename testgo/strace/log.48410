@@ -1,0 +1,760 @@
+gettid()                                = 48410
+sigaltstack(NULL, {ss_sp=NULL, ss_flags=SS_DISABLE, ss_size=0}) = 0
+sigaltstack({ss_sp=0xc00005e000, ss_flags=0, ss_size=32768}, NULL) = 0
+rt_sigprocmask(SIG_SETMASK, [], NULL, 8) = 0
+gettid()                                = 48410
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=20000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=40000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=80000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=160000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=320000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=640000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=1280000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=2560000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=5120000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+nanosleep({tv_sec=0, tv_nsec=10000000}, NULL) = 0
+getpid()                                = 48409
+tgkill(48409, 48409, SIGURG)            = 0
+nanosleep({tv_sec=0, tv_nsec=10000000},  <unfinished ...>) = ?
++++ killed by SIGINT +++

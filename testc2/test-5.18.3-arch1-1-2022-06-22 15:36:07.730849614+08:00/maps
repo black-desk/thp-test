@@ -1,0 +1,24 @@
+55d502f95000-55d502f96000 r--p 00000000 103:02 9570336                   /home/black_desk/mm-test/testc/tmp/test
+55d502f96000-55d502f97000 r-xp 00001000 103:02 9570336                   /home/black_desk/mm-test/testc/tmp/test
+55d502f97000-55d502f98000 r--p 00002000 103:02 9570336                   /home/black_desk/mm-test/testc/tmp/test
+55d502f98000-55d502f99000 r--p 00002000 103:02 9570336                   /home/black_desk/mm-test/testc/tmp/test
+55d502f99000-55d502f9a000 rw-p 00003000 103:02 9570336                   /home/black_desk/mm-test/testc/tmp/test
+55d503e6b000-55d503e8c000 rw-p 00000000 00:00 0                          [heap]
+7fc15e287000-7fc176000000 rw-p 00000000 00:00 0 
+7fc176000000-7fc176028000 r--p 00000000 103:02 9964915                   /usr/lib/libc.so.6
+7fc176028000-7fc1761a0000 r-xp 00028000 103:02 9964915                   /usr/lib/libc.so.6
+7fc1761a0000-7fc1761f8000 r--p 001a0000 103:02 9964915                   /usr/lib/libc.so.6
+7fc1761f8000-7fc1761f9000 ---p 001f8000 103:02 9964915                   /usr/lib/libc.so.6
+7fc1761f9000-7fc1761fd000 r--p 001f8000 103:02 9964915                   /usr/lib/libc.so.6
+7fc1761fd000-7fc1761ff000 rw-p 001fc000 103:02 9964915                   /usr/lib/libc.so.6
+7fc1761ff000-7fc17620c000 rw-p 00000000 00:00 0 
+7fc176214000-7fc176218000 rw-p 00000000 00:00 0 
+7fc176257000-7fc176259000 r--p 00000000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7fc176259000-7fc176280000 r-xp 00002000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7fc176280000-7fc17628b000 r--p 00029000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7fc17628c000-7fc17628e000 r--p 00034000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7fc17628e000-7fc176290000 rw-p 00036000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7fff21136000-7fff21157000 rw-p 00000000 00:00 0                          [stack]
+7fff211bd000-7fff211c1000 r--p 00000000 00:00 0                          [vvar]
+7fff211c1000-7fff211c3000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

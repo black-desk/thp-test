@@ -1,0 +1,12 @@
+gettid()                                = 48411
+sigaltstack(NULL, {ss_sp=NULL, ss_flags=SS_DISABLE, ss_size=0}) = 0
+sigaltstack({ss_sp=0xc00006e000, ss_flags=0, ss_size=32768}, NULL) = 0
+rt_sigprocmask(SIG_SETMASK, [], NULL, 8) = 0
+gettid()                                = 48411
+mmap(NULL, 262144, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f918be1b000
+rt_sigprocmask(SIG_SETMASK, ~[], [], 8) = 0
+clone(child_stack=0xc00009a000, flags=CLONE_VM|CLONE_FS|CLONE_FILES|CLONE_SIGHAND|CLONE_THREAD|CLONE_SYSVSEM|CLONE_SETTLS, tls=0xc000088090) = 48413
+rt_sigprocmask(SIG_SETMASK, [], NULL, 8) = 0
+futex(0x4b8c88, FUTEX_WAKE_PRIVATE, 1)  = 0
+futex(0xc00005c548, FUTEX_WAIT_PRIVATE, 0, NULL) = ?
++++ killed by SIGINT +++

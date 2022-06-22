@@ -1,0 +1,8 @@
+gettid()                                = 48412
+sigaltstack(NULL, {ss_sp=NULL, ss_flags=SS_DISABLE, ss_size=0}) = 0
+sigaltstack({ss_sp=0xc000080000, ss_flags=0, ss_size=32768}, NULL) = 0
+rt_sigprocmask(SIG_SETMASK, [], NULL, 8) = 0
+gettid()                                = 48412
+futex(0x4b8c88, FUTEX_WAKE_PRIVATE, 1)  = 1
+futex(0xc00005c948, FUTEX_WAIT_PRIVATE, 0, NULL) = ?
++++ killed by SIGINT +++

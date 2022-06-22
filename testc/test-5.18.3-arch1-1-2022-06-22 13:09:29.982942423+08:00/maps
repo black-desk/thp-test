@@ -1,0 +1,24 @@
+55940f007000-55940f008000 r--p 00000000 103:02 9570247                   /home/black_desk/mm-test/testc/test
+55940f008000-55940f009000 r-xp 00001000 103:02 9570247                   /home/black_desk/mm-test/testc/test
+55940f009000-55940f00a000 r--p 00002000 103:02 9570247                   /home/black_desk/mm-test/testc/test
+55940f00a000-55940f00b000 r--p 00002000 103:02 9570247                   /home/black_desk/mm-test/testc/test
+55940f00b000-55940f00c000 rw-p 00003000 103:02 9570247                   /home/black_desk/mm-test/testc/test
+55940f5a4000-55940f5c5000 rw-p 00000000 00:00 0                          [heap]
+7f552a487000-7f5542200000 rw-p 00000000 00:00 0 
+7f5542200000-7f5542228000 r--p 00000000 103:02 9964915                   /usr/lib/libc.so.6
+7f5542228000-7f55423a0000 r-xp 00028000 103:02 9964915                   /usr/lib/libc.so.6
+7f55423a0000-7f55423f8000 r--p 001a0000 103:02 9964915                   /usr/lib/libc.so.6
+7f55423f8000-7f55423f9000 ---p 001f8000 103:02 9964915                   /usr/lib/libc.so.6
+7f55423f9000-7f55423fd000 r--p 001f8000 103:02 9964915                   /usr/lib/libc.so.6
+7f55423fd000-7f55423ff000 rw-p 001fc000 103:02 9964915                   /usr/lib/libc.so.6
+7f55423ff000-7f554240c000 rw-p 00000000 00:00 0 
+7f554243f000-7f5542443000 rw-p 00000000 00:00 0 
+7f5542482000-7f5542484000 r--p 00000000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7f5542484000-7f55424ab000 r-xp 00002000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7f55424ab000-7f55424b6000 r--p 00029000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7f55424b7000-7f55424b9000 r--p 00034000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7f55424b9000-7f55424bb000 rw-p 00036000 103:02 9964900                   /usr/lib/ld-linux-x86-64.so.2
+7ffcf9bc0000-7ffcf9be1000 rw-p 00000000 00:00 0                          [stack]
+7ffcf9bee000-7ffcf9bf2000 r--p 00000000 00:00 0                          [vvar]
+7ffcf9bf2000-7ffcf9bf4000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
