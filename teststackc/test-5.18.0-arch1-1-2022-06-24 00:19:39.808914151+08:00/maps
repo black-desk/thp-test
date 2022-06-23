@@ -1,0 +1,22 @@
+555555554000-555555555000 r--p 00000000 103:02 29492866                  /home/black_desk/workspace/source/thp-test/teststackc/test
+555555555000-555555556000 r-xp 00001000 103:02 29492866                  /home/black_desk/workspace/source/thp-test/teststackc/test
+555555556000-555555557000 r--p 00002000 103:02 29492866                  /home/black_desk/workspace/source/thp-test/teststackc/test
+555555557000-555555558000 r--p 00002000 103:02 29492866                  /home/black_desk/workspace/source/thp-test/teststackc/test
+555555558000-555555559000 rw-p 00003000 103:02 29492866                  /home/black_desk/workspace/source/thp-test/teststackc/test
+7ffff7c00000-7ffff7c28000 r--p 00000000 103:02 10620277                  /usr/lib/libc.so.6
+7ffff7c28000-7ffff7da0000 r-xp 00028000 103:02 10620277                  /usr/lib/libc.so.6
+7ffff7da0000-7ffff7df8000 r--p 001a0000 103:02 10620277                  /usr/lib/libc.so.6
+7ffff7df8000-7ffff7df9000 ---p 001f8000 103:02 10620277                  /usr/lib/libc.so.6
+7ffff7df9000-7ffff7dfd000 r--p 001f8000 103:02 10620277                  /usr/lib/libc.so.6
+7ffff7dfd000-7ffff7dff000 rw-p 001fc000 103:02 10620277                  /usr/lib/libc.so.6
+7ffff7dff000-7ffff7e0c000 rw-p 00000000 00:00 0 
+7ffff7f7e000-7ffff7f83000 rw-p 00000000 00:00 0 
+7ffff7fc0000-7ffff7fc4000 r--p 00000000 00:00 0                          [vvar]
+7ffff7fc4000-7ffff7fc6000 r-xp 00000000 00:00 0                          [vdso]
+7ffff7fc6000-7ffff7fc8000 r--p 00000000 103:02 10620260                  /usr/lib/ld-linux-x86-64.so.2
+7ffff7fc8000-7ffff7fef000 r-xp 00002000 103:02 10620260                  /usr/lib/ld-linux-x86-64.so.2
+7ffff7fef000-7ffff7ffa000 r--p 00029000 103:02 10620260                  /usr/lib/ld-linux-x86-64.so.2
+7ffff7ffb000-7ffff7ffd000 r--p 00034000 103:02 10620260                  /usr/lib/ld-linux-x86-64.so.2
+7ffff7ffd000-7ffff7fff000 rw-p 00036000 103:02 10620260                  /usr/lib/ld-linux-x86-64.so.2
+7fffff9fd000-7ffffffff000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
